@@ -1,0 +1,5 @@
+train: ./subway/train/images
+val: ./subway/valid/images
+
+nc: 9
+names: ['public_intoxication', 'turnstile_trespassing', 'assault', 'surrounding_fall', 'escalator_fall', 'spy_camera', 'person', 'child', 'theft']
